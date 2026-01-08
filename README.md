@@ -68,16 +68,18 @@ Stock-Prediction-Project/
 │
 ├── requirements.txt              # Project dependencies
 └── README.md                     # Documentation
-
+---
 ## 📸 Screenshots
 
 ### **1. Dashboard Homepage**
 > *Real-time ticker, feature cards, and project overview with glassmorphism UI.*
-![Homepage](screenshots/home.png)
+![Homepage](<img width="940" height="467" alt="image" src="https://github.com/user-attachments/assets/59fcbe00-a31b-4cfe-909f-1a4e9413566f" />
+)
 
 ### **2. AI Prediction & Charts**
 > *Interactive candlestick charts with LSTM 30-day forecasts and confidence intervals.*
-![Predictions](screenshots/prediction.png)
+![Predictions](<img width="940" height="476" alt="image" src="https://github.com/user-attachments/assets/ab35babd-12c4-411a-a8a8-607a5c821ae2" />
+)
 
 ### **3. Live News & Sentiment**
 > *Real-time news feed with AI-driven sentiment analysis (Green = Positive, Red = Negative).*
@@ -91,7 +93,7 @@ Stock-Prediction-Project/
 > *Correlation heatmaps and performance comparison across multiple assets.*
 ![Comparison](screenshots/comparison.png)
 
-
+---
 ⚙️ Installation & Setup
 Follow these steps to run the project locally.
 
@@ -117,7 +119,7 @@ Navigate to the dashboard folder and launch the app:
 
 cd phase3_web_dashboard
 streamlit run app.py
-
+----
 🎮 How to Use
 Homepage: View the live ticker and project overview.
 Stock Predictions: Select a stock (e.g., AAPL) to view the 30-day forecast and confidence bands.
