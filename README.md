@@ -9,6 +9,22 @@
 
 ---
 
+## 📸 Project Screenshots
+
+| 🏠 Dashboard Homepage | 📊 AI Prediction & Charts |
+|:---:|:---:|
+| <img src="screenshots/home.png" alt="Dashboard" width="400"/> | <img src="screenshots/prediction.png" alt="Prediction" width="400"/> |
+
+| 📰 Live News & Sentiment | 💼 Portfolio Tracker |
+|:---:|:---:|
+| <img src="screenshots/news.png" alt="News Feed" width="400"/> | <img src="screenshots/portfolio.png" alt="Portfolio" width="400"/> |
+
+| ⚖️ Multi-Stock Comparison | 🧠 Model Analytics |
+|:---:|:---:|
+| <img src="screenshots/comparison.png" alt="Comparison" width="400"/> | <img src="screenshots/modelcomparision.png" alt="Analytics" width="400"/> |
+
+---
+
 ## 🚀 Key Features
 
 ### 🧠 **Advanced AI Predictions**
@@ -36,6 +52,7 @@
 ## 🛠️ Tech Stack
 
 | Component | Technologies Used |
+| :--- | :--- |
 | **Frontend** | Streamlit, Plotly, Custom CSS, HTML5 |
 | **Backend** | Python 3.10, Pandas, NumPy |
 | **Machine Learning** | TensorFlow (Keras), Scikit-learn, Joblib |
@@ -67,26 +84,6 @@ Stock-Prediction-Project/
 │
 ├── requirements.txt              # Project dependencies
 └── README.md                     # Documentation
-
-
----
-
-
-## 📸 Project Screenshots
-
-| 🏠 Dashboard Homepage | 📊 AI Prediction & Charts |
-|:---:|:---:|
-| <img src="screenshots/home.png" alt="Dashboard" width="400"/> | <img src="screenshots/prediction.png" alt="Prediction" width="400"/> |
-
-| 📰 Live News & Sentiment | 💼 Portfolio Tracker |
-|:---:|:---:|
-| <img src="screenshots/news.png" alt="News Feed" width="400"/> | <img src="screenshots/portfolio.png" alt="Portfolio" width="400"/> |
-
-| ⚖️ Multi-Stock Comparison | 🧠 Model Analytics |
-|:---:|:---:|
-| <img src="screenshots/comparison.png" alt="Comparison" width="400"/> | <img src="screenshots/modelcomparision.png" alt="Analytics" width="400"/> |
-
----
 
 
 ⚙️ Installation & Setup
