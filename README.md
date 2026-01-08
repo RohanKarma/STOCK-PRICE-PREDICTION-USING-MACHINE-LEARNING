@@ -74,28 +74,17 @@ Stock-Prediction-Project/
 
 ## 📸 Project Screenshots
 
-### **1. Dashboard Homepage**
-> *The landing page featuring a real-time scrolling ticker, feature cards with glassmorphism UI, and a professional dark theme.*
-![Homepage](<img width="940" height="467" alt="image" src="https://github.com/user-attachments/assets/884e7df8-9dd4-4fb0-9acf-dc20b9b237e3" />
-)
+| 🏠 Dashboard Homepage | 📊 AI Prediction & Charts |
+|:---:|:---:|
+| <img src="screenshots/home.png" alt="Dashboard" width="400"/> | <img src="screenshots/prediction.png" alt="Prediction" width="400"/> |
 
-### **2. AI Predictions & Analysis**
-> *Interactive charts showing historical data combined with LSTM model predictions (green line) and 95% confidence intervals.*
-![Prediction Chart](screenshots/prediction.png)
+| 📰 Live News & Sentiment | 💼 Portfolio Tracker |
+|:---:|:---:|
+| <img src="screenshots/news.png" alt="News Feed" width="400"/> | <img src="screenshots/portfolio.png" alt="Portfolio" width="400"/> |
 
-### **3. Live News & Sentiment Analysis**
-> *Real-time financial news feed where every article is analyzed by AI (VADER) and color-coded: Green (Positive), Red (Negative).*
-![News Feed](screenshots/news.png)
-
-### **4. Portfolio Tracker**
-> *A grid-based view of a simulated portfolio, displaying current prices, predicted 30-day trends, and risk assessment metrics.*
-![Portfolio Tracker](screenshots/portfolio.png)
-
-### **5. Multi-Stock Comparison**
-> *Advanced analytical tools including correlation heatmaps to compare performance and volatility across multiple assets.*
-![Comparison Tool](screenshots/comparison.png)
-
-
+| ⚖️ Multi-Stock Comparison | 🧠 Model Analytics |
+|:---:|:---:|
+| <img src="screenshots/comparison.png" alt="Comparison" width="400"/> | <img src="screenshots/modelcomparision.png" alt="Analytics" width="400"/> |
 ---
 
 
