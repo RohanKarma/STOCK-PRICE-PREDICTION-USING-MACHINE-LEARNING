@@ -36,7 +36,6 @@
 ## 🛠️ Tech Stack
 
 | Component | Technologies Used |
-| :--- | :--- |
 | **Frontend** | Streamlit, Plotly, Custom CSS, HTML5 |
 | **Backend** | Python 3.10, Pandas, NumPy |
 | **Machine Learning** | TensorFlow (Keras), Scikit-learn, Joblib |
@@ -69,27 +68,35 @@ Stock-Prediction-Project/
 ├── requirements.txt              # Project dependencies
 └── README.md                     # Documentation
 
-## 📸 Screenshots
+
+---
+
+
+## 📸 Project Screenshots
 
 ### **1. Dashboard Homepage**
-> *Real-time ticker, feature cards, and project overview with glassmorphism UI.*
-![Homepage](screenshots/home.png)
+> *The landing page featuring a real-time scrolling ticker, feature cards with glassmorphism UI, and a professional dark theme.*
+![Homepage](<img width="940" height="467" alt="image" src="https://github.com/user-attachments/assets/884e7df8-9dd4-4fb0-9acf-dc20b9b237e3" />
+)
 
-### **2. AI Prediction & Charts**
-> *Interactive candlestick charts with LSTM 30-day forecasts and confidence intervals.*
-![Predictions](screenshots/prediction.png)
+### **2. AI Predictions & Analysis**
+> *Interactive charts showing historical data combined with LSTM model predictions (green line) and 95% confidence intervals.*
+![Prediction Chart](screenshots/prediction.png)
 
-### **3. Live News & Sentiment**
-> *Real-time news feed with AI-driven sentiment analysis (Green = Positive, Red = Negative).*
+### **3. Live News & Sentiment Analysis**
+> *Real-time financial news feed where every article is analyzed by AI (VADER) and color-coded: Green (Positive), Red (Negative).*
 ![News Feed](screenshots/news.png)
 
 ### **4. Portfolio Tracker**
-> *Grid layout tracking simulated assets with risk analysis and trend indicators.*
-![Portfolio](screenshots/portfolio.png)
+> *A grid-based view of a simulated portfolio, displaying current prices, predicted 30-day trends, and risk assessment metrics.*
+![Portfolio Tracker](screenshots/portfolio.png)
 
 ### **5. Multi-Stock Comparison**
-> *Correlation heatmaps and performance comparison across multiple assets.*
-![Comparison](screenshots/comparison.png)
+> *Advanced analytical tools including correlation heatmaps to compare performance and volatility across multiple assets.*
+![Comparison Tool](screenshots/comparison.png)
+
+
+---
 
 
 ⚙️ Installation & Setup
@@ -117,7 +124,7 @@ Navigate to the dashboard folder and launch the app:
 
 cd phase3_web_dashboard
 streamlit run app.py
-
+----
 🎮 How to Use
 Homepage: View the live ticker and project overview.
 Stock Predictions: Select a stock (e.g., AAPL) to view the 30-day forecast and confidence bands.
